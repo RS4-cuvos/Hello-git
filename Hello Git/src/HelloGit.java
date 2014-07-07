@@ -12,7 +12,7 @@ public class HelloGit {
 
 		System.out.println("test 4 Mus");
 		
-
+		System.out.println("I was here");
 	}
 
 }
