@@ -12,7 +12,11 @@ public class HelloGit {
 
 		System.out.println("test 4 Mus");
 		
+
 		System.out.println("test 7");
+
+
+		System.out.println("I was here");
 
 	}
 
